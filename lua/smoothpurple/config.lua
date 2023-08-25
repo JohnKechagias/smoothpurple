@@ -22,7 +22,7 @@ M.options = {
 
 	disable_background = true,
 	disable_float_background = false,
-	disable_italics = false,
+	disable_italics = true,
 
 	groups = {
 		background = 'base',
